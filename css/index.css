@@ -1,0 +1,25 @@
+body
+{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: beige;
+}
+
+.head
+{
+    text-align: center;
+    background-color:lightgrey ;
+    color: white;
+}
+
+.list
+{
+    list-style: none;
+    text-align: center;
+    background-color:lightgray;
+}
+.list li
+{
+    font-size: x-large;
+    font-weight: bolder;
+
+}
